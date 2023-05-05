@@ -6,4 +6,4 @@ Bootcamp Cloud AWS
 
 <p align="center">
 Atividade desenvolvida junto a plataforma dio.me
-</p>
+</p># scripts-linux
